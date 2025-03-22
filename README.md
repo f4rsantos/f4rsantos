@@ -1,9 +1,8 @@
 
 
 <p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=f4rsantos&show_icons=true&theme=tokyonight&locale=en" alt="f4rsantos" />
-  <img align="center" src="https://github-
-    readme-stats.vercel.app/api/top-langs?username=f4rsantos&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="f4rsantos" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=f4rsantos&show_icons=true&theme=tokyonight&locale=en&hide_rank&count_private=true" alt="f4rsantos" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=f4rsantos&show_icons=true&theme=tokyonight&locale=en&layout=compact&count_private=true" alt="f4rsantos" />
 </p>
 <!--
 **f4rsantos/f4rsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
