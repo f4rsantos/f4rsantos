@@ -1,7 +1,9 @@
 
 
-![f4rsantos's Stats](https://github-readme-stats.vercel.app/api?username=f4rsantos&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![f4rsantos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f4rsantos&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<p>&nbsp;
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=f4rsantos&show_icons=true&theme=tokyonight&locale=en" alt="f4rsantos" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=f4rsantos&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="f4rsantos" />
+</p>
 <!--
 **f4rsantos/f4rsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
