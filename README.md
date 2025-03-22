@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/f4rsantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=f4rsantos&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true&count_private=true" alt="Github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4rsantos&layout=compact&langs_count=5&theme=tokyonight" alt="Languages breakdown" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=f4rsantos&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true&count_private=true" alt="Github stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4rsantos&layout=compact&langs_count=5&theme=tokyonight" alt="Languages breakdown" />
 </div>
 <!--
 **f4rsantos/f4rsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
